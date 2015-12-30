@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="textview_textsize_common">20dp</dimen>
+    <dimen name="textview_margintop_common">0dp</dimen>
+    <dimen name="textview_marginbottom_common">5dp</dimen>
+</resources>

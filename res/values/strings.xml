@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tools</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="to_textviewdemo">跳转到TextView有关的Demo中</string>
+    <string name="to_network_controll">跳转到控制WIFI和移动网络页面</string>
+    <string name="to_viewpager_activity">跳转到viewPager页面中</string>
+
+</resources>

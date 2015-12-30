@@ -1,0 +1,24 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+    <Button 
+        android:id="@+id/btnToTextViewDemo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/to_textviewdemo"/>
+
+    <Button 
+        android:id="@+id/btnToNetworkControll"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/to_network_controll"/>
+    
+    <Button 
+        android:id="@+id/btnToViewPagerActivity"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/to_viewpager_activity"/>
+    
+</LinearLayout>

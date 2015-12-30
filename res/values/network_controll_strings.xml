@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wifi_state_checking">正在检查WIFI状态</string>
+    <string name="wifi_state_disabled">WIFI网卡不可用</string>
+    <string name="wifi_state_disabling">WIFI网卡正在关闭</string>
+    <string name="wifi_state_enabled">WIFI网卡可用</string>
+    <string name="wifi_state_enabling">WIFI网卡正在打开</string>
+    <string name="wifi_state_unknown">WIFI网卡状态不可知</string>
+    
+    <string name="wifi_enable_checking">正在检查WIFI状态</string>
+    <string name="wifi_is_open">WIFI已经打开</string>
+    <string name="wifi_is_close">WIFI已经关闭</string>
+    <string name="wifi_is_connect">WIFI已经连接</string>
+    <string name="wifi_is_disconnect">WIFI已经断开连接</string>
+
+    <string name="network_enable_checking">正在检查移动网络状态</string>
+    <string name="network_is_open">移动网络已经打开</string>
+    <string name="network_is_close">移动网络已经关闭</string>
+    
+    <string name="network_is_connect_yes">网络已经连接</string>
+    <string name="network_is_connect_no">网络已经断开连接</string>
+</resources>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+	<TextView
+        android:id="@+id/WifiState"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textSize="@dimen/textview_textsize_common"
+        android:paddingTop="@dimen/textview_margintop_common"
+        android:paddingBottom="@dimen/textview_marginbottom_common"
+        android:text="@string/wifi_state_checking" />
+    <TextView 
+        android:id="@+id/WifiEnable"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textSize="@dimen/textview_textsize_common"
+        android:paddingTop="@dimen/textview_margintop_common"
+        android:paddingBottom="@dimen/textview_marginbottom_common"
+        android:text="@string/wifi_enable_checking" />
+    <TextView 
+        android:id="@+id/WifiName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textSize="@dimen/textview_textsize_common"
+        android:paddingTop="@dimen/textview_margintop_common"
+        android:paddingBottom="@dimen/textview_marginbottom_common"
+        android:text="@string/wifi_enable_checking" />
+    <ToggleButton 
+        android:id="@+id/WifiOnOffToggleBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textOn="@string/wifi_is_open"
+        android:textOff="@string/wifi_is_close" />
+    
+    <TextView
+        android:id="@+id/NetworkEnable"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textSize="@dimen/textview_textsize_common"
+        android:paddingTop="@dimen/textview_margintop_common"
+        android:paddingBottom="@dimen/textview_marginbottom_common"
+        android:text="@string/network_enable_checking" />
+    <ToggleButton 
+        android:id="@+id/NetworkOnOffToggleBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textOn="@string/network_is_open"
+        android:textOff="@string/network_is_close" />
+</LinearLayout>

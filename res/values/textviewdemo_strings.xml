@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="autoCompleteTextViewText">请输入你要搜索的关键词</string>
+</resources>
